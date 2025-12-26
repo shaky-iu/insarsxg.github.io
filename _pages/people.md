@@ -80,11 +80,11 @@ permalink: /people/
 
 <div class="faculty-section">
 
-### Cunren Liang
+### XuGuo SHI
 
-**Cunren Liang** is currently Assistant Professor at School of Earth and Space Sciences, Peking University. Previously, he was a Staff Scientist at California Institute of Technology (Caltech) in Pasadena, California (2018-2021). Prior to joining Caltech, he was a NASA Postdoctoral Program Fellow at NASA Jet Propulsion Laboratory (JPL) also in Pasadena (2015-2018). He received the B.S. degree from Shandong University of Science and Technology in 2008, and the Ph.D. degree from Peking University in 2014.
+**Shixuguo** is male, from Tai'an, Shandong Province, China. He is currently an Associate Professor and Master's Supervisor. His research focuses on spaceborne radar interferometry technology and its applications. He received his Ph.D. in Engineering from the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University in 2016. He has undertaken and participated in several national research projects including the National Natural Science Foundation of China and the National 973 Program. He has published over 20 SCI-indexed papers and co-authored one monograph. He has served as a reviewer for several international SCI journals including *ISPRS Journal of Photogrammetry and Remote Sensing*, *Remote Sensing*, *Landslides*, and *Science of The Total Environment*.
 
-Cunren Liang mainly works on Synthetic Aperture Radar (SAR) signal processing, interferometry (InSAR), remote sensing and their applications in geoscience and hazard response. He is currently in the Calibration/Validation and Science Team (CVST) of JAXA ALOS-4 mission. He was a member of JPL/Caltech ARIA team and involved in a number of NASA projects such as NISAR Mission Science Team and NASA Earth Surface and Interior. He developed cutting-edge algorithms for processing multi-mode SAR data acquired by JAXA ALOS-2 satellite. He also developed techniques to correct for InSAR ionospheric effects for data acquired in different modes and at different wavelengths. His work demonstrated the possibility of measuring large-scale north-south deformation and line-of-sight velocities with L-band wide-swath SAR data, as we are going to enter a new era of L-band wide-swath mode. He contributed a number of modules and applications to the widely used InSAR software ISCE. He won Best Paper Award for Young Scientist at ESA-NRSCC Symposium (2010 and 2012), NASA Postdoctoral Program Fellowship (2014), NASA Group Achievement Award (2016) and JPL Outstanding Postdoctoral Research Award (2017).
+His research interests mainly focus on high-precision deformation monitoring methods using radar interferometry, landslide geological hazard identification and monitoring, and related applications in geohazard early warning systems.
 
 </div>
 
