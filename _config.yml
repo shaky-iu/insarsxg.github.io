@@ -13,6 +13,22 @@ title                    : "InSAR SXG"
 title_separator          : "-"
 name                     : "SXG Group"
 description              : "Synthetic Aperture Radar and Geohazard Monitoring Research Group, China University of Geosciences (Wuhan). We are committed to research on Synthetic Aperture Radar (SAR) processing for the fields of engineering construction, geoscience, and natural hazard emergency response."   # Update this with a general description of your site, this is the default if not overridden by a page
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "People"
+    url: "/people/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Patents"
+    url: "/patents/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Contact"
+    url: "/contact/"
+    
 url                      : "https://insarsxg.github.io"
 baseurl                  : "" 
 repository               : "insarsxg/insarsxg.github.io"
@@ -164,14 +180,8 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
-
-
 
 # HTML Compression
 # - https://jch.penibelst.de/
