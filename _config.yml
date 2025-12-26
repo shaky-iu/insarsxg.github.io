@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" 
-title                    : "InSAR SXG"
+title                    : "InSAR SXG Group "
 title_separator          : "-"
 name                     : "SXG Group"
 description              : "Synthetic Aperture Radar and Geohazard Monitoring Research Group, China University of Geosciences (Wuhan). We are committed to research on Synthetic Aperture Radar (SAR) processing for the fields of engineering construction, geoscience, and natural hazard emergency response."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,14 @@ navigation:
     url: "/publications/"
   - title: "Patents"
     url: "/patents/"
+    
   - title: "Teaching"
     url: "/teaching/"
   - title: "Contact"
     url: "/contact/"
     
-url                      : "https://insarsxg.github.io"
-baseurl                  : "" 
+url                      : "https://shaky-iu.github.io/insarsxg.github.io/"
+baseurl                  : "/insarsxg.github.io"
 repository               : "insarsxg/insarsxg.github.io"
 
 
